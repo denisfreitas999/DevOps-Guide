@@ -1,4 +1,7 @@
 # DevOps
+
+Fonte: https://techguide.sh/pt-BR/path/devops/
+
 ## Nivel 1
 - [ ] **Linux - Fundamentos**:
    - Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. As distribuições incluem o Kernel Linux, além de softwares de sistema e bibliotecas.
