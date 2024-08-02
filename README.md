@@ -3,7 +3,7 @@
 Fonte: https://techguide.sh/pt-BR/path/devops/
 
 ## Nivel 1
-- [ ] **Linux - Fundamentos**:
+- [x] **Linux - Fundamentos**:
    - Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. As distribuições incluem o Kernel Linux, além de softwares de sistema e bibliotecas.
    - Conhecer o sistema de diretórios do Linux
    - Compactar e descompactar arquivos
@@ -12,7 +12,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Conhecer as variáveis de ambiente e o PATH
    - Gerenciar pacotes
    - Realizar comunicação remota com o SSH e SCP
-- [ ] **Git e GitHub - Fundamentos**:
+- [x] **Git e GitHub - Fundamentos**:
    - Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
    - GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
    - Criar um repositório
@@ -21,14 +21,14 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Reverter um commit
    - Criar branches e pul requests
    - Lidar com merge e conflitos
-- [ ] **HTTP - Fundamentos**:
+- [x] **HTTP - Fundamentos**:
    - HTTP significa Hyper Text Transfer Protocol. A comunicação entre computadores cliente e servidores web é feita enviando solicitações HTTP e recebendo respostas HTTP.
    - Entender a diferença dos verbos HTTP
    - Testar os requests e ver os status codes no navegador
    - Saber fazer uma requisição HTTP na linha de comando com WGET
    - Baixar uma imagem com WGET
    - Fazer um post
-- [ ] **Linha de comando - Fundamentos**:
+- [x] **Linha de comando - Fundamentos**:
    - CLI é um programa de linha de comando que aceita entradas de texto para executar funções do sistema operacional.
    - Conhecer os principais comandos
 - [ ] **Cloud - Fundamentos**:
@@ -36,12 +36,12 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Conhecer a diferença entre IaaS, PaaS e SaaS
    - Conhecer os maiores provedores de cloud
    - Especializar-se em algum provedor
-- [ ] **Shell Scripting**:
+- [x] **Shell Scripting**:
    - Automatizar tarefas repetitivas utilizando as linguagens disponibilizadas pelo terminal.
    - Criação de tarefas com execução automática
    - Automatizar a configuração e instalação de aplicações em novos sistemas
    - Usar o PowerShell
-- [ ] **Redes de Computadores - Fundamentos**:
+- [x] **Redes de Computadores - Fundamentos**:
    - Rede de computadores é uma malha que interliga milhares de sistemas computacionais para a transmissão de dados. Também conhecidos como nós, esses dispositivos interconectados enviam, recebem e trocam tráfego de dados, voz e vídeo, graças ao hardware e software que compõe o ambiente.
    - Configurações de redes são essenciais para que seja possível acessar uma aplicação, principalmente se ela estiver na nuvem.
    - Entenda melhor os componentes de rede e a suas atribuições
@@ -72,7 +72,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Executar testes automatizados da aplicação para verificar seu funcionamento.
    - Realizar a entrega de atualizações de forma automatica e com segurança.
    - Realizar testes de conexão e testes de carga para evitar que a aplicação apresente problemas ao ser atualizada.
-- [ ] **SQL - Fundamentos**:
+- [x] **SQL - Fundamentos**:
    - SQL (Structured Query Language, traduzindo, Linguagem de Consulta Estruturada) é uma linguagem de programação padronizada que é usada para gerenciar bancos de dados relacionais e realizar várias operações sobre os dados neles contidos.
    - Conhecer os comandos mais comuns do SQL
    - Usar SELECT para consultar uma tabela
@@ -102,7 +102,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
 - [ ] **DevSecOps**:
    - DevSecOps significa desenvolvimento, segurança e operações. É uma abordagem à cultura, automação e design de plataforma que integra a segurança como uma responsabilidade compartilhada durante todo o ciclo de vida da TI.
 ## Habilidade Auxiliar: Back-end 
-- [ ] **Conceitos de Orientação a Objetos**:
+- [x] **Conceitos de Orientação a Objetos**:
    - A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo.
    - Como funcionam objetos
    - Criar e utilizar construtores
@@ -113,13 +113,13 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - O que é polimorfismo
    - Como funcionam interfaces
    - O que são abstrações
-- [ ] **JSON**:
+- [x] **JSON**:
    - JSON significa JavaScript Object Notation (notação de objeto JavaScript). É um formato de texto para armazenar e transmitir dados.
    - Criar um objeto
    - Transformar um objeto em uma string
    - Transformar uma string em objeto
    - Manipular um objeto
-- [ ] **Design Patterns**:
+- [x] **Design Patterns**:
    - Na engenharia de software, um "padrão de projeto" (Design Pattern em inglês) é uma solução geral e reutilizável para um problema que ocorre normalmente dentro de um determinado contexto de projeto de software.
    - Conhecer e aplicar os principais Design Patterns
 - [ ] **Python - Fundamentos**:
@@ -159,7 +159,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Manipular arrays e listas
    - Obter dados de uma API
    - Criar construtores
-- [ ] **JavaScript - Fundamentos**:
+- [x] **JavaScript - Fundamentos**:
    - JavaScript é a linguagem de programação mais popular do mundo e é uma das principais tecnologias da World Wide Web, juntamente com HTML e CSS. Ela possui tipagem dinâmica, orientação a objetos baseada em protótipos e funções de primeira classe. Ela é multi-paradigma e suporta estilos de programação orientados a eventos, funcionais e imperativos.
    - Conhecer os tipos primitivos
    - Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const'
@@ -195,7 +195,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Fazer chamadas assíncronas, etc
    - Criar construtores
 ## Habilidade Auxiliar: Front-end 
-- [ ] **HTML - Fundamentos**:
+- [x] **HTML - Fundamentos**:
    - HTML é uma linguagem de marcação que define a estrutura do seu conteúdo. HTML consiste em uma série de elementos que você usa para mostrar algo de uma determinada maneira ou agir de uma certo modo. As tags podem criar um hiperlink de uma palavra ou imagem para outro lugar, podem colocar palavras em itálico, podem aumentar ou diminuir a fonte e assim por diante.
    - Aprender quais tags são necessárias para um HTML básico
    - Criar um parágrafo de texto
@@ -208,7 +208,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Conectar com um arquivo de CSS
    - Criar uma tabela
    - Adicionar IDs e classes
-- [ ] **CSS - Fundamentos**:
+- [x] **CSS - Fundamentos**:
    - Cascading Style Sheets (CSS) é uma linguagem usada para descrever a apresentação de um documento escrito em uma linguagem de marcação como HTML ou XML. CSS pode ser usado para estilos de texto de documentos muito básicos — por exemplo, para alterar a cor e o tamanho de títulos e links. Ele pode ser usado para criar um layout — por exemplo, transformar uma única coluna de texto em um layout com uma área de conteúdo principal e uma barra lateral para informações relacionadas. Pode até ser usado para efeitos como animações.
    - Aprender a estrutura visual de uma página, com 'margin' e 'padding'
    - Estabelecer o tamanho com 'width' e 'height'
@@ -223,7 +223,7 @@ Fonte: https://techguide.sh/pt-BR/path/devops/
    - Aprender box-sizing
    - Aprender Flexbox
    - Aprender Grid
-- [ ] **DOM - Fundamentos**:
+- [x] **DOM - Fundamentos**:
    - O Document Object Model (DOM) é uma interface de programação para documentos web. Ele representa a página para que os programas possam alterar a estrutura, o estilo e o conteúdo do documento. O DOM representa o documento como nós e objetos; dessa forma, linguagens de programação podem interagir com a página.
    - Entender como funciona a árvore do DOM
    - Acessar e manipular elementos do HTML e CSS
